@@ -1,3 +1,41 @@
 body {
-  font-family: "Raleway", sans-serif;
+  font-family: "Lato", sans-serif;
+}
+
+p {
+  font-weight: 300;
+}
+
+ul {
+  font-weight: 300;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+ol {
+  font-weight: 300;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.subheader {
+  padding-top: 3%;
+}
+
+.padtop {
+  padding-top: 3%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+
+.center-50 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
